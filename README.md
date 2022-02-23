@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Semayatri
-- 👀 I’m interested in Data
+- 👀 I’m Enthusiast in Data
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
